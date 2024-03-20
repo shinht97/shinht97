@@ -37,6 +37,7 @@
 >    역 할 : "프로젝트 리더"  
 >
 ><a href="">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
+>
   
   
   
@@ -47,7 +48,8 @@
 >    역 할 : "프로젝트 리더"  
 >  
 ><a href="">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
-  
+>  
+
   
   
 > #### 3. 상품 리뷰 분석을 통한 긍부정 분석 프로그램  
@@ -57,7 +59,7 @@
 >    역 할 : "프로젝트 리더"  
 >  
 ><a href="https://github.com/shinht97/Comment_analysis">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
-  
+>    
   
   
 > #### 4. 유사 댓글을 이용한 게임 추천  
@@ -67,8 +69,9 @@
 >    역 할 : "프로젝트 리더"  
 >  
 ><a href="https://github.com/shinht97/steamsavemoney">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
+>  
   
-  
+
   
 >#### 5. 초음파 센서를 이용한 자율 주행 자동차  
 >    설 명 : 게임의 댓글을 이용하여 유사 댓글이 있는 다른 게임을 추천  
@@ -77,6 +80,7 @@
 >    역 할 : "프로젝트 리더"  
 >  
 ><a href="">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
+>
   
   
   
@@ -88,6 +92,7 @@
 > 사용기술 : GAN, Python  
 >  
 > <a href="https://github.com/shinht97/foot_print_project">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
+>
   
   
   
@@ -98,6 +103,8 @@
 > 사용기술 : Python  
 >   
 > <a href="https://github.com/shinht97/foot_print_project">![a](https://img.shields.io/badge/googledocs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)</a>  
+>
+
 
 
 ---
