@@ -38,8 +38,8 @@
 >
 ><a href="">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
 >
-  
-  
+
+
   
 > #### 2. C#과 시리얼 통신을 이용한 IoT 데이터 처리  
 >    설 명 : C#을 이용한 Winform 프로그램과 Serial 통신을 이용하여 SQL 저장  
@@ -50,7 +50,7 @@
 ><a href="">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
 >  
 
-  
+
   
 > #### 3. 상품 리뷰 분석을 통한 긍부정 분석 프로그램  
 >    설 명 : 자연어 처리 모델을 이용하여 리뷰의 긍부정을 분석  
@@ -59,8 +59,9 @@
 >    역 할 : "프로젝트 리더"  
 >  
 ><a href="https://github.com/shinht97/Comment_analysis">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
->    
-  
+>  
+
+
   
 > #### 4. 유사 댓글을 이용한 게임 추천  
 >    설 명 : 게임의 댓글을 이용하여 유사 댓글이 있는 다른 게임을 추천  
@@ -69,8 +70,8 @@
 >    역 할 : "프로젝트 리더"  
 >  
 ><a href="https://github.com/shinht97/steamsavemoney">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
->  
-  
+>
+
 
   
 >#### 5. 초음파 센서를 이용한 자율 주행 자동차  
@@ -81,8 +82,8 @@
 >  
 ><a href="">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
 >
-  
-  
+
+
   
 ## 🎞 Side Project  
 > #### 1. 실종아동 성인 얼굴인식 모델 설계 (진행중)  
@@ -93,8 +94,8 @@
 >  
 > <a href="https://github.com/shinht97/foot_print_project">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
 >
-  
-  
+
+
   
 > #### 2. K-헤커톤 (디벨롭 중)  
 >    설 명 :  
@@ -106,5 +107,5 @@
 >
 
 
-
+  
 ---
