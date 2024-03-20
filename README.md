@@ -44,7 +44,7 @@
 > #### 2. C#과 시리얼 통신을 이용한 수집 데이터 처리  
 >    설 명 : C#을 이용한 Winform 프로그램과 Serial 통신을 이용하여 SQL 저장  
 >    기 간 : 2024. 12. 25 ~ 2024. 12. 29  
-> 사용기술 : 자연어 처리, PyQT  
+> 사용기술 : STM32, Serial 통신, Winform, Window SQL 
 >    역 할 : "프로젝트 리더"  
 >  
 ><a href="https://github.com/shinht97/CS_serial_project">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
