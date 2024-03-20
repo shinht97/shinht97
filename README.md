@@ -36,7 +36,7 @@
 > 사용기술 : C를 이용한 중계 서버, WIFI, BT 통신, SQL  
 >    역 할 : "프로젝트 리더"  
 >
-><a href="">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
+><a href="https://github.com/shinht97/IoT_OFFICE_PROJECT">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
 >
 
 
