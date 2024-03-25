@@ -1,3 +1,8 @@
+<div align="right">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshinht97&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
+
+
 ![header](https://capsule-render.vercel.app/api?type=wave&height=270&color=gradient&text=Portfoilo&reversal=false&textBg=false&fontAlign=50&fontAlignY=39&desc=shinht97&descSize=26)
 
 
