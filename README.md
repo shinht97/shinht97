@@ -9,7 +9,8 @@
     
 ## Intro
 안녕하세요!  
-[Intel] Edge AI SW 과정 중에 진행한 프로젝트를 정리하였습니다.  
+신현택입니다.
+제가 진행한 모든 프로젝트를 정리했습니다.
 
 
     
@@ -102,13 +103,13 @@
 
 
 　 
-> #### 2. K-헤커톤 (디벨롭 중)  
+> #### ~~2. K-헤커톤 (디벨롭 중)~~
 > &nbsp;&nbsp;&nbsp;설 명 :  
 > &nbsp;&nbsp;&nbsp;역 할 :  
 > &nbsp;&nbsp;&nbsp;기 간 :  
 > 사용기술 : Python  
 >   
-> <a href="https://github.com/shinht97/foot_print_project">![a](https://img.shields.io/badge/googledocs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)</a>  
+> ~~<a href="https://github.com/shinht97/foot_print_project">![a](https://img.shields.io/badge/googledocs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)</a>~~
 >  
 
 
