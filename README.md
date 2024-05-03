@@ -4,16 +4,16 @@
 
 
 ![header](https://capsule-render.vercel.app/api?type=wave&height=270&color=gradient&text=Portfoilo&reversal=false&textBg=false&fontAlign=50&fontAlignY=39&desc=shinht97&descSize=26)
+  
 
-
-    
+　 
 ## Intro
 안녕하세요!  
 신현택이라고 합니다.  
 제가 진행한 모든 프로젝트를 정리해논 페이지입니다.
+  
 
-
-    
+　 
 ## ⚙ Skiils
 ![a](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white) 
 ![b](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
@@ -22,9 +22,9 @@
 ![e](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) 
 ![f](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![g](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white)
+  
 
-
-    
+　 
 ## 🛠 IDE
 ![a](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) 
 ![b](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
@@ -32,9 +32,9 @@
 ![d](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) 
 ![e](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white) 
 ![f](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) 
+  
 
-
-    
+　 
 ## ✨ Projects
 ### [Intel] Edge AI SW 아카데미미
 > #### 1. IoT를 이용한 사무실 관리  
