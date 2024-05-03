@@ -93,7 +93,7 @@
 > 사용기술 : Python, PyQT, Open VINO  
 > 역&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;할 : "프로젝트 리더" 및 개별 동작 기능 통합 담당  
 >  
-><a href="https://github.com/BrotherHwan/Final_project">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+><a href="https://github.com/BrotherHwan/Final_project">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
 > 참고 : 후속 진행 중인 프로젝트로 최신 브렌치 확인 필요
 >  
 >
