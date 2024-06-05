@@ -60,7 +60,7 @@
 > #### 3. 상품 리뷰 분석을 통한 긍부정 분석 프로그램  
 > 설&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;명 : 자연어 처리 모델을 이용하여 리뷰의 긍부정을 분석  
 > 기&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;간 : 2024. 01. 25 ~ 2024. 01. 31  
-> 사용기술 : 자연어 처리, PyQT  
+> 사용기술 : Python을 이용한 자연어 처리, PyQT  
 > 역&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;할 : "프로젝트 리더" 및 자연어 처리 모델 구현  
 >  
 ><a href="https://github.com/shinht97/Comment_analysis">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
@@ -70,7 +70,7 @@
 > #### 4. 유사 댓글을 이용한 게임 추천  
 > 설&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;명 : 게임의 댓글을 이용하여 유사 댓글이 있는 다른 게임을 추천  
 > 기&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;간 : 2024. 02. 12 ~ 2024. 02. 22  
-> 사용기술 : 자연어 처리, PyQT  
+> 사용기술 : Python을 이용한 자연어 처리, PyQT  
 > 역&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;할 : "프로젝트 리더"  
 >  
 ><a href="https://github.com/shinht97/steamsavemoney">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
@@ -90,11 +90,11 @@
 > #### 6. Open VINO의 Pose Estimation을 사용한 자세 확인 프로그램  
 > 설&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;명 : Pose Estimation을 사용하여 자신의 자세와 특정 자세를 비교하는 프로그램  
 > 기&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;간 : 2024. 04. 19 ~ 2024. 04. 22  
-> 사용기술 : Python, PyQT, Open VINO  
+> 사용기술 : Python, PyQT, OpenVINO  
 > 역&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;할 : "프로젝트 리더" 및 개별 동작 기능 통합 담당  
 >  
 ><a href="https://github.com/BrotherHwan/Final_project">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
-> 참고 : 후속 진행 중인 프로젝트로 최신 브렌치 확인 필요
+> <!--참고 : 후속 진행 중인 프로젝트로 최신 브렌치 확인 필요-->
 >  
 >
 >　 
