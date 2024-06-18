@@ -21,7 +21,6 @@
 ![d](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white ) 
 ![e](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) 
 ![f](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![g](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white)
   
 
 　 
@@ -29,17 +28,20 @@
 ![a](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) 
 ![b](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 ![c](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) 
-![d](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) 
+![d](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white)  
 ![e](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white) 
 ![f](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) 
+![g](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) 
   
 
 　 
 ## ✨ Projects
 ### 🕹️ 게임
 > #### ▣ 지구방위본부
-> 설&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;명 : Unity Engine을 이용한 모바일 슈팅 게임
+> 설&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;명 : Unity Engine을 이용한 모바일 슈팅 게임  
 > 기&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;간 : 2023.04 ~ 2023.11
+> 사용기술 : C#, Unity Engine  
+> 역&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;할 : 게임 시스템 및 적 움직임 개발  
 > 
 > <a href="https://play.google.com/store/apps/details?id=com.Univia.SpaceDefence&hl=ko-KR">![a](https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=white)</a>&nbsp;&nbsp;<!--<a href="">(https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)</a>-->
 >
