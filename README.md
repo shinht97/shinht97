@@ -9,7 +9,7 @@
 　 
 ## Intro
 안녕하세요!  
-신현택이라고 합니다.  
+인공지능을 좋아하는 경력 9개월인 게임 개발자 신현택이라고 합니다.  
 제가 진행한 모든 프로젝트를 정리해논 페이지입니다.
   
 
@@ -36,34 +36,23 @@
 
 　 
 ## ✨ Projects
-### [Intel] Edge AI SW 아카데미
-> #### ▣ IoT를 이용한 사무실 관리  
-> 설&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;명 : Arduino, Raspberry PI를 이용하여 스마트 사무실 관리 시스템 제작  
-> 기&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;간 : 2023. 11. 20 ~ 2023. 11. 28  
-> 사용기술 : C를 이용한 중계 서버, WIFI, BT 통신, MariaDB  
-> 역&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;할 : "프로젝트 리더" 및 WIFI 통신과 DB 작업 담당  
+### 🕹️ 게임
+> #### ▣ 지구방위본부
+> 설&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;명 : Unity Engine을 이용한 모바일 슈팅 게임
+> 기&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;간 : 2023.04 ~ 2023.11
+> 
+> <a href="https://play.google.com/store/apps/details?id=com.Univia.SpaceDefence&hl=ko-KR">![a](https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=white)</a>&nbsp;&nbsp;<!--<a href="">(https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)</a>-->
 >
-><a href="https://github.com/shinht97/IoT_OFFICE_PROJECT">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
->  
->
->　 
-> #### ▣ C#과 시리얼 통신을 이용한 수집 데이터 처리  
-> 설&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;명 : C#을 이용한 Winform 프로그램과 Serial 통신을 이용하여 SQL 저장  
-> 기&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;간 : 2024. 12. 25 ~ 2024. 12. 29  
-> 사용기술 : STM32, Serial 통신, Winform, Window SQL  
-> 역&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;할 : "프로젝트 리더" 및 STM32를 사용하여 주변 환경 데이터 수집 디바이스 제작   
->  
-><a href="https://github.com/shinht97/CS_serial_project">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
->  
->
->　  
+>　
+***
+### 🖥️ 인공지능
 > #### ▣ 상품 리뷰 분석을 통한 긍부정 분석 프로그램  
 > 설&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;명 : 자연어 처리 모델을 이용하여 리뷰의 긍부정을 분석  
 > 기&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;간 : 2024. 01. 25 ~ 2024. 01. 31  
 > 사용기술 : Python을 이용한 자연어 처리, PyQT  
 > 역&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;할 : "프로젝트 리더" 및 자연어 처리 모델 구현  
 >  
-><a href="https://github.com/shinht97/Comment_analysis">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
+> <a href="https://github.com/shinht97/Comment_analysis">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
 >  
 >
 >　 
@@ -73,10 +62,43 @@
 > 사용기술 : Python을 이용한 자연어 처리, PyQT  
 > 역&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;할 : "프로젝트 리더" 및 데이터 수집과 전처리 
 >  
-><a href="https://github.com/shinht97/steamsavemoney">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
+> <a href="https://github.com/shinht97/steamsavemoney">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
 >  
 >
 >　 
+> #### ▣ Open VINO의 Pose Estimation을 사용한 자세 확인 프로그램  
+> 설&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;명 : Pose Estimation을 사용하여 자신의 자세와 특정 자세를 비교하는 프로그램  
+> 기&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;간 : 2024. 04. 19 ~ 2024. 04. 22  
+> 사용기술 : Python, PyQT, OpenVINO  
+> 역&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;할 : "프로젝트 리더" 및 개별 동작 기능을 멀티 프로세스를 이용하여 통합  
+>  
+> <a href="https://github.com/BrotherHwan/Final_project">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
+> <!--참고 : 후속 진행 중인 프로젝트로 최신 브렌치 확인 필요-->
+>  
+>
+>　 
+***
+### ⚙️ Embedded 프로젝트
+> #### ▣ IoT를 이용한 사무실 관리  
+> 설&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;명 : Arduino, Raspberry PI를 이용하여 스마트 사무실 관리 시스템 제작  
+> 기&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;간 : 2023. 11. 20 ~ 2023. 11. 28  
+> 사용기술 : C를 이용한 중계 서버, WIFI, BT 통신, MariaDB  
+> 역&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;할 : "프로젝트 리더" 및 WIFI 통신과 DB 작업 담당  
+>
+> <a href="https://github.com/shinht97/IoT_OFFICE_PROJECT">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
+>  
+>
+>　 
+> #### ▣ C#과 시리얼 통신을 이용한 수집 데이터 처리  
+> 설&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;명 : C#을 이용한 Winform 프로그램과 Serial 통신을 이용하여 SQL 저장  
+> 기&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;간 : 2024. 12. 25 ~ 2024. 12. 29  
+> 사용기술 : STM32, Serial 통신, Winform, Window SQL  
+> 역&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;할 : "프로젝트 리더" 및 STM32를 사용하여 주변 환경 데이터 수집 디바이스 제작   
+>  
+> <a href="https://github.com/shinht97/CS_serial_project">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
+>  
+>
+>　  
 >#### ▣ 초음파 센서를 이용한 자율 주행 자동차  
 > 설&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;명 : 초음파 센서와 RTOS를 사용한 자율 주행 자동차 제작  
 > 기&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;간 : 2024. 02. 26 ~ 2024. 03. 08  
@@ -87,17 +109,7 @@
 >  
 >
 >　 
-> #### ▣ Open VINO의 Pose Estimation을 사용한 자세 확인 프로그램  
-> 설&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;명 : Pose Estimation을 사용하여 자신의 자세와 특정 자세를 비교하는 프로그램  
-> 기&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;간 : 2024. 04. 19 ~ 2024. 04. 22  
-> 사용기술 : Python, PyQT, OpenVINO  
-> 역&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;할 : "프로젝트 리더" 및 개별 동작 기능을 멀티 프로세스를 이용하여 통합  
->  
-><a href="https://github.com/BrotherHwan/Final_project">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
-> <!--참고 : 후속 진행 중인 프로젝트로 최신 브렌치 확인 필요-->
->  
->
->　 
+
 
 <!--　 
 ## 🎞 Side Project  
