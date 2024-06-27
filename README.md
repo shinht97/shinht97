@@ -70,7 +70,7 @@
 >　 
 > #### ▣ Open VINO의 Pose Estimation을 사용한 자세 확인 프로그램  
 > 설&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;명 : Pose Estimation을 사용하여 자신의 자세와 특정 자세를 비교하는 프로그램  
-> 기&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;간 : 2024. 04. 12 ~ 2024. 04. 22  
+> 기&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;간 : 2024. 04. 12 ~ 2024. 05. 12  
 > 사용기술 : Python, PyQT, OpenVINO  
 > 역&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;할 : "프로젝트 리더" 및 개별 동작 기능을 멀티 프로세스를 이용하여 통합  
 >  
