@@ -36,17 +36,18 @@
 
 　 
 ## ✨ Projects
-### 🕹️ 게임
+<!--### 🕹️ 게임
 > #### ▣ 지구방위본부
 > 설&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;명 : Unity Engine을 이용한 모바일 슈팅 게임  
 > 기&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;간 : 2023.04 ~ 2023.11
 > 사용기술 : C#, Unity Engine  
 > 역&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;할 : 게임 시스템 및 적 움직임 개발  
 > 
-> <a href="https://play.google.com/store/apps/details?id=com.Univia.SpaceDefence&hl=ko-KR">![a](https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=white)</a>&nbsp;&nbsp;<!--<a href="">(https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)</a>-->
+> ![a]<a href="https://play.google.com/store/apps/details?id=com.Univia.SpaceDefence&hl=ko-KR">![a](https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=white)</a>&nbsp;&nbsp;![b]<a href="">(https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)</a>
 >
->　
+>
 ***
+-->
 ### 🖥️ 인공지능
 > #### ▣ 상품 리뷰 분석을 통한 긍부정 분석 프로그램  
 > 설&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;명 : 자연어 처리 모델을 이용하여 리뷰의 긍부정을 분석  
