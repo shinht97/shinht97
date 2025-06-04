@@ -63,7 +63,6 @@
 >  
 > <a href="https://github.com/shinht97/Comment_analysis">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
 >  
->　 
 > #### ▣ 유사 댓글을 이용한 게임 추천  
 > 프로젝트 내용 : 게임의 댓글을 이용하여 유사 댓글이 있는 다른 게임을 추천  
 > 진행 기간 : 2024. 02. 12 ~ 2024. 02. 22  
