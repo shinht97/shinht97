@@ -67,10 +67,22 @@
   카메라로 손의 위치를 추적하여, 공중에서 드럼을 연주할 수 있는 인터랙티브 프로그램입니다.  
   [![GitHub](https://img.shields.io/badge/GitHub-AirDrum-181717?style=flat-square&logo=github)](https://github.com/shinht97/AirDrum)
 
+<!-- - **이미지 기반 중고차 차종 분류**  
+  이미지 분류를 통한 중고차의 차종 분류 프로젝트 입니다.(데이콘 참가)  
+  [![GitHub](https://img.shields.io/badge/GitHub-UsedCar-181717?style=flat-square&logo=github)](https://github.com/kimpubao/dacon_usedcar)  -->
+  
 <!--
-- **MediaPipe 기반 차량 운전자 상태 관제 시스템**  
+- **YOLO 기반 차량 운전자 상태 관제 시스템**  
   운전자의 얼굴 및 눈 상태를 인식하여 졸음, 집중도, 시선 등을 분석하고 차량 내 경고를 제공하는 시스템입니다.  
   [![GitHub](https://img.shields.io/badge/GitHub-Driver_Monitoring_MediaPipe-181717?style=flat-square&logo=github)](https://github.com/shinht97/Driver_Monitoring_MediaPipe) -->
+
+---
+
+## 📝 미니 프로젝트
+
+- **자바를 이용한 CLI 회원관리 프로그램**  
+  자바와 파일 입출력을 활용한 회원 관리 프로그램 입니다.  
+  [![GitHub](https://img.shields.io/badge/GitHub-JavaLogin-181717?style=flat-square&logo=github)](https://github.com/shinht97/)
 
 ---
 
