@@ -72,7 +72,7 @@
 >  
 > <a href="https://github.com/shinht97/steamsavemoney">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
 >  
->  　 
+>  
 > #### ▣ Open VINO의 Pose Estimation을 사용한 자세 확인 프로그램  
 > 프로젝트 내용 : Pose Estimation을 사용하여 자신의 자세와 특정 자세를 비교하는 프로그램  
 > 진행 기간 : 2024. 04. 12 ~ 2024. 05. 12  
@@ -83,27 +83,29 @@
 > <!--참고 : 후속 진행 중인 프로젝트로 최신 브렌치 확인 필요-->
 >  
 >  
-> #### MediaPipe를 이용한 바디트래킹 AirDrum
-> 프로젝트 내용 : MediaPipe를 이용하여 웹캠의 사람 인식 후 가상의 드럼 연주 프로그램
-> 진행 기간 :
-> 사용기술 : Python, MediaPipe
+> #### ▣ MediaPipe를 이용한 바디트래킹 AirDrum  
+> 프로젝트 내용 : MediaPipe를 이용하여 웹캠의 사람 인식 후 가상의 드럼 연주 프로그램  
+> 진행 기간 :  
+> 사용기술 : Python, MediaPipe  
 >  
+> <a href="">![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+> 
 >  
 > <!--#### 이미지 분류를 통한 중고차 종류 분류 프로젝트
 > 프로젝트 내용 : 중고차 이미지를 통한 차종 분류 프로젝트
 > 진행 기간 :
 > 사용기술 : Pytho, Pytorch
->
-> <a href="">![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>-->
->
 >  
-> #### YOLO를 이용한 차량 이동 관제 시스탬
-> 프로젝트 내용 : YOLO를 이용하여 CCTV 화면 속 차량의 위치를 관제 하는 프로그램
-> 진행 기간 : 2025.06.04 ~
-> 사용기술 : Python, ONNX
->
-> <!--<a href ="">![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
->
+> <a href="">![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>-->
+>  
+>  
+> #### ▣ YOLO를 이용한 차량 이동 관제 시스탬  
+> 프로젝트 내용 : YOLO를 이용하여 CCTV 화면 속 차량의 위치를 관제 하는 프로그램  
+> 진행 기간 : 2025.06.04 ~  
+> 사용기술 : Python, ONNX  
+>  
+> <a href ="">![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+>  
 >  
 ***
 ### ⚙️ Embedded 프로젝트
