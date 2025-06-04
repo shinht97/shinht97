@@ -82,7 +82,7 @@
 
 - **자바를 이용한 CLI 회원관리 프로그램**  
   자바와 파일 입출력을 활용한 회원 관리 프로그램 입니다.  
-  [![GitHub](https://img.shields.io/badge/GitHub-JavaLogin-181717?style=flat-square&logo=github)](https://github.com/shinht97/)
+  [![GitHub](https://img.shields.io/badge/GitHub-JavaLogin-181717?style=flat-square&logo=github)](https://github.com/shinht97/JavaLogin)
 
 ---
 
