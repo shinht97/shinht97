@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&height=270&color=gradient&text=%EC%8B%A0%ED%98%84%ED%83%9D%EC%9D%98%20Portfolio&fontAlign=50&fontAlignY=39&desc=shinht97&descSize=26)
 
-<!--<div align="right">
+<div align="right">
   <a href="https://github.com/shinht97">
     <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fshinht97&label=HITS&icon=github&color=%23198754">
   </a>
-</div>-->
+</div>
 
 ---
 
@@ -24,17 +24,13 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-
-<br>
-
+  
 ### 🧰 프레임워크 & 라이브러리
 
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-<br>
-
+  
 ### 🗄 데이터베이스
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
