@@ -72,9 +72,9 @@
   [![GitHub](https://img.shields.io/badge/GitHub-UsedCar-181717?style=flat-square&logo=github)](https://github.com/kimpubao/dacon_usedcar)  -->
   
 <!--
-- **YOLO 기반 차량 운전자 상태 관제 시스템**  
-  운전자의 얼굴 및 눈 상태를 인식하여 졸음, 집중도, 시선 등을 분석하고 차량 내 경고를 제공하는 시스템입니다.  
-  [![GitHub](https://img.shields.io/badge/GitHub-Driver_Monitoring_MediaPipe-181717?style=flat-square&logo=github)](https://github.com/shinht97/Driver_Monitoring_MediaPipe) -->
+- **YOLO 기반 주차장 관제 시스템**  
+  YOLO를 이용하여 차량을 인식하여 주차장에 차량 유무를 확인하는 프로그램 입니다.  
+  [![GitHub](https://img.shields.io/badge/GitHub-ParkingLot_Observer-181717?style=flat-square&logo=github)](https://github.com/shinht97/ParkingLot_Observer) -->
 
 ---
 
