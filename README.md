@@ -71,10 +71,10 @@
   이미지 분류를 통한 중고차의 차종 분류 프로젝트 입니다.(데이콘 참가)  
   [![GitHub](https://img.shields.io/badge/GitHub-UsedCar-181717?style=flat-square&logo=github)](https://github.com/kimpubao/dacon_usedcar)  -->
   
-<!--
+
 - **YOLO 기반 주차장 관제 시스템**  
   YOLO를 이용하여 차량을 인식하여 주차장에 차량 유무를 확인하는 프로그램 입니다.  
-  [![GitHub](https://img.shields.io/badge/GitHub-ParkingLot_Observer-181717?style=flat-square&logo=github)](https://github.com/shinht97/ParkingLot_Observer) -->
+  [![GitHub](https://img.shields.io/badge/GitHub-ParkingLot_Observer-181717?style=flat-square&logo=github)](https://github.com/shinht97/ParkingLot_Observer)
 
 ---
 
