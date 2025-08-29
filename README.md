@@ -76,8 +76,9 @@
   YOLO를 이용하여 차량을 인식하여 주차장에 차량 유무를 확인하는 프로그램 입니다.  
   [![GitHub](https://img.shields.io/badge/GitHub-ParkingLot_Observer-181717?style=flat-square&logo=github)](https://github.com/shinht97/ParkingLot_Observer)
 
+
 - **LLM + RAG 기반 데이터 검색 시스템**
-  LLM과 RAG를 이용한 사용자 기반 캠핑장 검색 시스템 입니다.
+  LLM과 RAG를 이용한 사용자 기반 캠핑장 검색 시스템 입니다.  
   [![GitHub](https://img.shields.io/badge/GitHub-ParkingLot_Observer-181717?style=flat-square&logo=github)](https://github.com/xodus123/TrailMate)
 
 ---
