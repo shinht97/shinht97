@@ -61,7 +61,7 @@
 
 - **OpenVINO 기반 자세 분석 프로그램**  
   포즈 추정(Pose Estimation)을 활용하여 사용자의 자세를 특정 기준과 비교해 시각적으로 제공하는 프로그램입니다.  
-  [![GitHub](https://img.shields.io/badge/GitHub-Final_project-181717?style=flat-square&logo=github)](https://github.com/BrotherHwan/Final_project)
+  [![GitHub](https://img.shields.io/badge/GitHub-Copy&Move-181717?style=flat-square&logo=github)](https://github.com/BrotherHwan/Final_project)
 
 - **MediaPipe 기반 Air Drum 프로그램**  
   카메라로 손의 위치를 추적하여, 공중에서 드럼을 연주할 수 있는 인터랙티브 프로그램입니다.  
