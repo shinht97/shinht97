@@ -78,7 +78,7 @@
 
 
 - **LLM + RAG 기반 데이터 검색 시스템**  
-  LLM과 RAG를 이용한 사용자 기반 캠핑장 검색 시스템 입니다.  
+  LLM과 RAG를 이용한 사용자 질의 기반 캠핑장 검색 시스템 입니다.  
   [![GitHub](https://img.shields.io/badge/GitHub-TrailMate(Camping_LLM)-181717?style=flat-square&logo=github)](https://github.com/xodus123/TrailMate)
 
 ---
